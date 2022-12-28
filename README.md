@@ -1,6 +1,6 @@
 # React Interview Challenge
 
-![image](src/assetrs/ric.png)
+![image](src/assets/ric.png)
 
 ## Steps:
 - Clone the repository
