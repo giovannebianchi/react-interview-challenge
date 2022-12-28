@@ -20,12 +20,7 @@
   padding: 1.5rem 0 0 0;
 }
 
-.undo, .redo {
-  outline: none;
-  border: none;
-}
-
-.undo:focus, .redo:focus {
+.undo, .redo, .undo:focus, .redo:focus {
   outline: none;
   border: none;
 }
